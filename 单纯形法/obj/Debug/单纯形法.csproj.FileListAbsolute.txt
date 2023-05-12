@@ -1,0 +1,7 @@
+C:\Users\赵薇嘉\source\repos\单纯形法\单纯形法\bin\Debug\单纯形法.exe.config
+C:\Users\赵薇嘉\source\repos\单纯形法\单纯形法\bin\Debug\单纯形法.exe
+C:\Users\赵薇嘉\source\repos\单纯形法\单纯形法\bin\Debug\单纯形法.pdb
+C:\Users\赵薇嘉\source\repos\单纯形法\单纯形法\obj\Debug\单纯形法.csproj.AssemblyReference.cache
+C:\Users\赵薇嘉\source\repos\单纯形法\单纯形法\obj\Debug\单纯形法.csproj.CoreCompileInputs.cache
+C:\Users\赵薇嘉\source\repos\单纯形法\单纯形法\obj\Debug\单纯形法.exe
+C:\Users\赵薇嘉\source\repos\单纯形法\单纯形法\obj\Debug\单纯形法.pdb
